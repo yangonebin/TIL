@@ -1,0 +1,1 @@
+2025년 7월 python basic syntax 수업 내용입니다.
